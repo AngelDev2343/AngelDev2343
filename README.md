@@ -60,14 +60,6 @@ Desarrollo soluciones donde la IA no es solo una función extra, sino una herram
 
 ---
 
-## 📊 Estadísticas de GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AngelDev2343&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AngelDev2343&layout=compact&theme=tokyonight)
-
----
-
 ## 📫 Contacto
 
 📧 Email: angeldesingscontact@gmail.com
