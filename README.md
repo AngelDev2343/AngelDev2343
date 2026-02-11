@@ -63,7 +63,7 @@ Desarrollo soluciones donde la IA no es solo una función extra, sino una herram
 ## 📫 Contacto
 
 📧 Email: angeldesingscontact@gmail.com
-💼 Landing Page: https://linkedin.com/in/tuperfil  
+💼 Landing Page: https://AngelDev2343.github.io/land/index.html
 
 ---
 
