@@ -69,7 +69,37 @@ Pensadas para el día a día real.
 
 ---
 
-## 🧠 Integración de IA en Aplicaciones Web
+# 🛠️ Stack Tecnológico
+
+## 🎨 Frontend
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</p>
+
+---
+
+## ⚙️ Backend
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+</p>
+
+---
+
+## 🗄️ Base de Datos
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+---
+
+## 🤖 Integración de IA en Aplicaciones Web
 
 Desarrollo soluciones donde la IA es una herramienta estratégica, no solo una función extra.
 
@@ -77,44 +107,6 @@ Desarrollo soluciones donde la IA es una herramienta estratégica, no solo una f
 - 🤖 Asistentes virtuales personalizados  
 - 🧠 Automatización de procesos  
 - 📊 Generación inteligente de contenido y análisis  
-
----
-
-## 🛠️ Stack Tecnológico
-
-<table>
-<tr>
-<td align="center" width="25%">
-
-### Frontend
-HTML5  
-CSS3  
-JavaScript  
-PWA  
-
-</td>
-<td align="center" width="25%">
-
-### Backend
-PHP  
-Node.js  
-
-</td>
-<td align="center" width="25%">
-
-### Base de Datos
-MySQL  
-
-</td>
-<td align="center" width="25%">
-
-### Integraciones
-APIs REST  
-Servicios IA  
-
-</td>
-</tr>
-</table>
 
 ---
 
