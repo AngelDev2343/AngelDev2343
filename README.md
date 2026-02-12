@@ -4,7 +4,7 @@
 
 #### 🌐 Desarrollador Web Fullstack (Frontend + Backend)
 
-Desarrollo **plataformas web claras, funcionales y bien estructuradas** que aportan valor real al negocio.
+Desarrollo **plataformas web intuitivas,útiles y bien estructuradas** que aportan valor real al negocio.
 
 Trabajo con enfoque en experiencia de usuario, rendimiento y escalabilidad, creando soluciones pensadas para funcionar correctamente hoy y mantenerse sólidas en el tiempo.
 
@@ -37,7 +37,7 @@ Soluciones escalables alineadas a objetivos de negocio.
 
 ---
 
-# 🛠️ Stack Tecnológico
+# 🛠️ Stack
 
 ## 🎨 Frontend
 
@@ -77,4 +77,4 @@ Incorporo Inteligencia Artificial dentro de aplicaciones web como parte de la ar
 
 ---
 
-⭐ Abierto a colaborar en proyectos interesantes y nuevas oportunidades.
+Si quieres ver alguno de mis trabajos, puedes acceder a mi Landing Page o ver los repositorios publicados aquí mismo en GitHub.
