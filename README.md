@@ -6,7 +6,7 @@ Trabajo con enfoque en experiencia de usuario, rendimiento y escalabilidad, crea
 
 ---
 
-# 🚀 Soluciones
+## 🚀 Soluciones
 
 <table>
 <tr>
@@ -33,9 +33,9 @@ Soluciones escalables alineadas a objetivos de negocio.
 
 ---
 
-# 🛠️ Stack
+## 🛠️ Stack
 
-## 🎨 Frontend
+### 🎨 Frontend
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="70" height="70"/>
@@ -45,7 +45,7 @@ Soluciones escalables alineadas a objetivos de negocio.
 
 ---
 
-## ⚙️ Backend
+### ⚙️ Backend
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="70" height="70"/>
@@ -55,7 +55,7 @@ Soluciones escalables alineadas a objetivos de negocio.
 
 ---
 
-# 🤖 Integración de IA
+## 🤖 Integración de IA
 
 Incorporo Inteligencia Artificial dentro de aplicaciones web como parte de la arquitectura del producto:
 
@@ -66,7 +66,7 @@ Incorporo Inteligencia Artificial dentro de aplicaciones web como parte de la ar
 
 ---
 
-# 📫 Contacto
+## 📫 Contacto
 
 **Explora mis proyectos en mi Landing Page o directamente en los repositorios públicos de este perfil.**
 
