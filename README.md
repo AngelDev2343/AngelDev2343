@@ -76,7 +76,7 @@ Incorporo Inteligencia Artificial dentro de aplicaciones web como parte de la ar
 
 ---
 
-## 🧩 Filosofía de desarrollo
+## 🧩 Filosofía
 
 Trabajo principalmente con **JavaScript Vanilla** y tecnologías fundamentales porque me permiten:
 
