@@ -36,72 +36,30 @@ Soluciones escalables adaptadas al negocio.
 
 ---
 
-## 🎯 Enfoque en cada proyecto
-
-<table>
-<tr>
-<td align="center" width="25%">
-
-### ✔️ Intuitivas  
-Experiencias claras y fáciles de usar.
-
-</td>
-<td align="center" width="25%">
-
-### 🔒 Seguras  
-Buenas prácticas y protección de datos.
-
-</td>
-<td align="center" width="25%">
-
-### 📈 Escalables  
-Preparadas para crecer con el negocio.
-
-</td>
-<td align="center" width="25%">
-
-### 🧩 Útiles  
-Pensadas para el día a día real.
-
-</td>
-</tr>
-</table>
-
----
-
 # 🛠️ Stack Tecnológico
 
 ## 🎨 Frontend
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=googlechrome&logoColor=white"/>
 </p>
 
 ---
 
-## ⚙️ Backend
+## ⚙️ Backend & Base de Datos
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-</p>
-
----
-
-## 🗄️ Base de Datos
-
-<p align="center">
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white"/>
 </p>
 
 ---
 
 ## 🤖 Integración de IA en Aplicaciones Web
-
-Desarrollo soluciones donde la IA es una herramienta estratégica, no solo una función extra.
 
 - 🔗 Integración de APIs de Inteligencia Artificial  
 - 🤖 Asistentes virtuales personalizados  
@@ -112,11 +70,11 @@ Desarrollo soluciones donde la IA es una herramienta estratégica, no solo una f
 
 ## 🧩 Metodología de Trabajo
 
-- 🎯 Objetivos claros desde el inicio  
-- 💬 Comunicación directa y constante  
+- 🎯 Objetivos claros  
+- 💬 Comunicación directa  
 - 🗂️ Procesos organizados  
-- 🔒 Código limpio y mantenible  
-- 📊 Decisiones técnicas con visión de negocio  
+- 🔒 Código limpio  
+- 📈 Pensado para crecer  
 
 ---
 
