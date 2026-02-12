@@ -6,7 +6,7 @@ Trabajo con enfoque en experiencia de usuario, rendimiento y escalabilidad, crea
 
 ---
 
-# 🚀 Soluciones que desarrollo
+# 🚀 Soluciones
 
 <table>
 <tr>
@@ -55,7 +55,7 @@ Soluciones escalables alineadas a objetivos de negocio.
 
 ---
 
-# 🤖 Integración de IA en Aplicaciones Web
+# 🤖 Integración de IA
 
 Incorporo Inteligencia Artificial dentro de aplicaciones web como parte de la arquitectura del producto:
 
