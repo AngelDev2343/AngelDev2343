@@ -1,5 +1,3 @@
-# 👋 Angel Salinas Pérez  
-
 ## 💻 Frontend Developer enfocado en Experiencia y Producto
 
 #### 🌐 Desarrollador Web Fullstack (Frontend + Backend)
@@ -73,8 +71,8 @@ Incorporo Inteligencia Artificial dentro de aplicaciones web como parte de la ar
 # 📫 Contacto
 
 📧 **Email:** angeldesingscontact@gmail.com  
-💼 **Portafolio:** [Ver Portafolio Web](https://AngelDev2343.github.io/land/index.html)
+💼 **Landing Page:** [Ver Landing Page](https://AngelDev2343.github.io/land/index.html)
 
 ---
 
-Si quieres ver alguno de mis trabajos, puedes acceder a mi Landing Page o ver los repositorios publicados aquí mismo en GitHub.
+**Revisa mis proyectos en mi Landing Page o directamente en los repositorios públicos de este perfil.**
