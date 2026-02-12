@@ -62,17 +62,7 @@ Incorporo Inteligencia Artificial dentro de aplicaciones web como parte de la ar
 - 🔗 Integración de APIs de IA  
 - 🤖 Asistentes virtuales  
 - 🧠 Automatización de procesos  
-- 📊 Generación de contenido y análisis inteligente  
-
----
-
-## 📫 Contacto
-
-¿Tienes un proyecto en mente? Me encantaría hablar sobre él.
-
-🔗 **[Explora mis proyectos](https://AngelDev2343.github.io/land/index.html)**
-
-💬 **¿Hablamos?** angeldesingscontact@gmail.com
+- 📊 Generación de contenido y análisis inteligente
 
 ---
 
@@ -89,4 +79,18 @@ Trabajo principalmente con **JavaScript Vanilla** y tecnologías fundamentales p
 ---
 
 📂 **Mis repositorios públicos muestran mis proyectos principales** - cada uno representa trabajo de calidad, no experimentos ni tutoriales.
+
+---
+
+## 📫 Contacto
+
+¿Tienes un proyecto en mente? Me encantaría hablar sobre él.
+
+🔗 **[Explora mis proyectos](https://AngelDev2343.github.io/land/index.html)**
+
+💬 **¿Hablamos?** angeldesingscontact@gmail.com
+
+
+
+
 
