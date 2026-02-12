@@ -1,7 +1,8 @@
 # 👋 Angel Salinas Pérez  
 
-## 💻 Frontend Developer enfocado en Experiencia y Producto  
-### 🌐 Desarrollador Web Fullstack (Frontend + Backend)
+## 💻 Frontend Developer enfocado en Experiencia y Producto
+
+#### 🌐 Desarrollador Web Fullstack (Frontend + Backend)
 
 Desarrollo **plataformas web claras, funcionales y bien estructuradas** que aportan valor real al negocio.
 
@@ -48,7 +49,7 @@ Soluciones escalables alineadas a objetivos de negocio.
 
 ---
 
-## ⚙️ Backend & Base de Datos
+## ⚙️ Backend
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="70" height="70"/>
