@@ -68,7 +68,7 @@ Incorporo Inteligencia Artificial dentro de aplicaciones web como parte de la ar
 
 # 📫 Contacto
 
-**Revisa mis proyectos en mi Landing Page o directamente en los repositorios públicos de este perfil.**
+**Explora mis proyectos en mi Landing Page o directamente en los repositorios públicos de este perfil.**
 
 📧 **Email:** angeldesingscontact@gmail.com
   
