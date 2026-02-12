@@ -76,5 +76,17 @@ Incorporo Inteligencia Artificial dentro de aplicaciones web como parte de la ar
 
 ---
 
-*Los repositorios públicos de este perfil contienen el código de mis trabajos*
+## 🧩 Filosofía de desarrollo
+
+Trabajo principalmente con **JavaScript Vanilla** y tecnologías fundamentales porque me permiten:
+
+- 🚀 Mayor control y rendimiento
+- 🎯 Soluciones a medida sin overhead innecesario  
+- 🔧 Código mantenible a largo plazo
+
+*Frameworks cuando aportan valor real, vanilla cuando es la mejor opción.*
+
+---
+
+📂 **Mis repositorios públicos muestran mis proyectos principales** - cada uno representa trabajo profesional completo, no experimentos ni tutoriales.
 
