@@ -11,19 +11,19 @@ Trabajo con enfoque en experiencia de usuario, rendimiento y escalabilidad, crea
 <table>
 <tr>
 <td align="center" width="33%">
-🛒 Tiendas en línea
+🛒 Tiendas en línea<br>
 
 Ecommerce optimizados para conversión y gestión eficiente.
 
 </td>
 <td align="center" width="33%">
-🧾 Sistemas administrativos
+🧾 Sistemas administrativos<br>
 
 Herramientas internas que organizan y simplifican procesos.
 
 </td>
 <td align="center" width="33%">
-🌍 Aplicaciones web a medida
+🌍 Aplicaciones web a medida<br>
   
 Soluciones escalables alineadas a objetivos de negocio.
 
