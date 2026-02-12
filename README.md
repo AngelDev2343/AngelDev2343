@@ -1,8 +1,6 @@
-## 💻 Frontend Developer enfocado en Experiencia y Producto
+## 💻 Frontend Developer | Fullstack Web
 
-#### 🌐 Desarrollador Web Fullstack (Frontend + Backend)
-
-Desarrollo **plataformas web intuitivas,útiles y bien estructuradas** que aportan valor real al negocio.
+Desarrollo **plataformas web intuitivas, útiles y bien estructuradas** que aportan valor real al negocio.
 
 Trabajo con enfoque en experiencia de usuario, rendimiento y escalabilidad, creando soluciones pensadas para funcionar correctamente hoy y mantenerse sólidas en el tiempo.
 
@@ -70,9 +68,11 @@ Incorporo Inteligencia Artificial dentro de aplicaciones web como parte de la ar
 
 # 📫 Contacto
 
-📧 **Email:** angeldesingscontact@gmail.com  
-💼 **Landing Page:** [Ver Landing Page](https://AngelDev2343.github.io/land/index.html)
+**Revisa mis proyectos en mi Landing Page o directamente en los repositorios públicos de este perfil.**
+
+📧 **Email:** angeldesingscontact@gmail.com
+  
+💼 [Landing Page](https://AngelDev2343.github.io/land/index.html)
 
 ---
 
-**Revisa mis proyectos en mi Landing Page o directamente en los repositorios públicos de este perfil.**
