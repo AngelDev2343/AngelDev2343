@@ -88,5 +88,5 @@ Trabajo principalmente con **JavaScript Vanilla** y tecnologías fundamentales p
 
 ---
 
-📂 **Mis repositorios públicos muestran mis proyectos principales** - cada uno representa trabajo profesional completo, no experimentos ni tutoriales.
+📂 **Mis repositorios públicos muestran mis proyectos principales** - cada uno representa trabajo de calidad, no experimentos ni tutoriales.
 
