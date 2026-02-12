@@ -68,11 +68,12 @@ Incorporo Inteligencia Artificial dentro de aplicaciones web como parte de la ar
 
 ## 📫 Contacto
 
-**Explora mis proyectos en mi Landing Page o directamente en los repositorios públicos de este perfil.**
+¿Tienes un proyecto en mente? Me encantaría hablar sobre él.
 
-📧 **Email:** angeldesingscontact@gmail.com
-  
-💼 [Landing Page](https://AngelDev2343.github.io/land/index.html)
+🔗 **[Explora mis proyectos](https://AngelDev2343.github.io/land/index.html)**
+
+💬 **¿Hablamos?** angeldesingscontact@gmail.com
 
 ---
 
+*Los repositorios públicos de este perfil contienen el código de mis trabajos*
