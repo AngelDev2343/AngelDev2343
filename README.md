@@ -1,11 +1,11 @@
 # 👋 Angel Salinas Pérez  
 
-## 💻 Frontend Developer especializado en Experiencia de Usuario  
+## 💻 Frontend Developer enfocado en Experiencia y Producto  
 ### 🌐 Desarrollador Web Fullstack (Frontend + Backend)
 
-Construyo **plataformas digitales funcionales, claras y estratégicas** para emprendedores y pequeñas empresas.
+Desarrollo **plataformas web claras, funcionales y bien estructuradas** que aportan valor real al negocio.
 
-Transformo ideas en productos digitales que no solo funcionan, sino que **aportan valor real al negocio**.
+Trabajo con enfoque en experiencia de usuario, rendimiento y escalabilidad, creando soluciones pensadas no solo para funcionar, sino para crecer.
 
 ---
 
@@ -16,19 +16,19 @@ Transformo ideas en productos digitales que no solo funcionan, sino que **aporta
 <td align="center" width="33%">
 
 ### 🛒 Tiendas en línea  
-Ecommerce optimizados para conversión y gestión simple.
+Ecommerce optimizados para conversión y gestión eficiente.
 
 </td>
 <td align="center" width="33%">
 
 ### 🧾 Sistemas administrativos  
-Herramientas internas claras, organizadas y eficientes.
+Herramientas internas que organizan y simplifican procesos.
 
 </td>
 <td align="center" width="33%">
 
 ### 🌍 Aplicaciones web a medida  
-Soluciones escalables adaptadas al modelo de negocio.
+Soluciones escalables alineadas a objetivos de negocio.
 
 </td>
 </tr>
@@ -42,26 +42,26 @@ Soluciones escalables adaptadas al modelo de negocio.
 <tr>
 <td align="center" width="25%">
 
-### ✔️ Intuitivas  
-Experiencias claras y fáciles de usar.
+### ✔️ Claridad  
+Interfaces intuitivas y bien estructuradas.
 
 </td>
 <td align="center" width="25%">
 
-### 🔒 Seguras  
-Buenas prácticas y protección de datos.
+### 🔒 Seguridad  
+Buenas prácticas y arquitectura limpia.
 
 </td>
 <td align="center" width="25%">
 
-### 📈 Escalables  
-Preparadas para crecer con el negocio.
+### 📈 Escalabilidad  
+Pensado para crecimiento y mantenimiento.
 
 </td>
 <td align="center" width="25%">
 
-### 🧩 Útiles  
-Pensadas para el uso real diario.
+### 🧩 Utilidad  
+Soluciones prácticas para el uso diario.
 
 </td>
 </tr>
@@ -77,7 +77,7 @@ Pensadas para el uso real diario.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="70" height="70"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="70" height="70"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="70" height="70"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="70" height="70" title="PWA"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/PWA-logo.svg" width="70" height="70" title="Progressive Web App"/>
 </p>
 
 ---
@@ -94,10 +94,10 @@ Pensadas para el uso real diario.
 
 # 🤖 Integración de IA en Aplicaciones Web
 
-Desarrollo soluciones donde la IA es una herramienta estratégica dentro del producto:
+Incorporo Inteligencia Artificial como herramienta estratégica dentro de aplicaciones web:
 
-- 🔗 Integración de APIs de Inteligencia Artificial  
-- 🤖 Asistentes virtuales personalizados  
+- 🔗 Integración de APIs de IA  
+- 🤖 Asistentes virtuales  
 - 🧠 Automatización de procesos  
 - 📊 Generación inteligente de contenido y análisis  
 
@@ -106,10 +106,10 @@ Desarrollo soluciones donde la IA es una herramienta estratégica dentro del pro
 # 🧩 Metodología de Trabajo
 
 - 🎯 Objetivos claros desde el inicio  
-- 💬 Comunicación directa y constante  
+- 💬 Comunicación directa  
 - 🗂️ Procesos organizados  
 - 🔒 Código limpio y mantenible  
-- 📈 Decisiones técnicas con visión de negocio  
+- 📈 Decisiones técnicas alineadas al negocio  
 
 ---
 
@@ -120,4 +120,4 @@ Desarrollo soluciones donde la IA es una herramienta estratégica dentro del pro
 
 ---
 
-⭐ Siempre abierto a colaborar en proyectos interesantes y nuevas oportunidades.
+⭐ Abierto a colaborar en proyectos interesantes y nuevas oportunidades.
