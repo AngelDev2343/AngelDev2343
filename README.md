@@ -1,71 +1,138 @@
-# 👋 Hola, soy Angel Salinas Pérez
+# 👋 Angel Salinas Pérez  
 
-### 💻 Desarrollador Web Full-Stack
+## 💻 Frontend Developer especializado en UX  
+### 🌐 Desarrollador Web Fullstack (Frontend + Backend)
 
-Ayudo a emprendedores y pequeñas empresas a convertir sus ideas en **plataformas digitales funcionales, claras y fáciles de usar**.
+Construyo **plataformas digitales funcionales, claras y estratégicas** para emprendedores y pequeñas empresas.
 
-He desarrollado **tiendas en línea, sistemas administrativos y aplicaciones web a medida**, siempre enfocado en que sean:
-
-✔️ Intuitivas  
-✔️ Seguras  
-✔️ Escalables  
-✔️ Útiles en el día a día del negocio  
-
-Trabajo con objetivos bien definidos, comunicación directa y procesos organizados.  
-Mi meta es desarrollar soluciones estables y bien pensadas que no solo funcionen, sino que **aporten valor real al negocio**.
+Transformo ideas en productos digitales que no solo funcionan, sino que **aportan valor real al negocio**.
 
 ---
 
-## 🚀 Tecnologías
+## 🚀 ¿Qué desarrollo?
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=googlechrome&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+<table>
+<tr>
+<td align="center" width="33%">
 
----
+### 🛒 Tiendas en línea  
+Ecommerce optimizados para conversión y gestión simple.
 
-## 🤖 Integración de IA en Aplicaciones Web
+</td>
+<td align="center" width="33%">
 
-- 🔗 Consumo e integración de APIs de Inteligencia Artificial  
-- 🤖 Implementación de asistentes virtuales en plataformas web  
-- 🧠 Automatización de procesos con IA  
-- 📊 Generación inteligente de contenido y análisis de datos  
+### 🧾 Sistemas administrativos  
+Herramientas internas claras y funcionales.
 
-Desarrollo soluciones donde la IA no es solo una función extra, sino una herramienta estratégica para mejorar la experiencia del usuario y optimizar procesos de negocio.
+</td>
+<td align="center" width="33%">
 
----
+### 🌍 Aplicaciones web a medida  
+Soluciones escalables adaptadas al negocio.
 
-## 🛠️ Herramientas
-
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=php&logoColor=white)
-
-- 🔌 Desarrollo y consumo de APIs REST
-- ⚙️ Integración de servicios externos
-- 🔐 Gestión y administración de bases de datos
+</td>
+</tr>
+</table>
 
 ---
 
-## 🧠 Enfoque de Trabajo
+## 🎯 Enfoque en cada proyecto
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+### ✔️ Intuitivas  
+Experiencias claras y fáciles de usar.
+
+</td>
+<td align="center" width="25%">
+
+### 🔒 Seguras  
+Buenas prácticas y protección de datos.
+
+</td>
+<td align="center" width="25%">
+
+### 📈 Escalables  
+Preparadas para crecer con el negocio.
+
+</td>
+<td align="center" width="25%">
+
+### 🧩 Útiles  
+Pensadas para el día a día real.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧠 Integración de IA en Aplicaciones Web
+
+Desarrollo soluciones donde la IA es una herramienta estratégica, no solo una función extra.
+
+- 🔗 Integración de APIs de Inteligencia Artificial  
+- 🤖 Asistentes virtuales personalizados  
+- 🧠 Automatización de procesos  
+- 📊 Generación inteligente de contenido y análisis  
+
+---
+
+## 🛠️ Stack Tecnológico
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+### Frontend
+HTML5  
+CSS3  
+JavaScript  
+PWA  
+
+</td>
+<td align="center" width="25%">
+
+### Backend
+PHP  
+Node.js  
+
+</td>
+<td align="center" width="25%">
+
+### Base de Datos
+MySQL  
+
+</td>
+<td align="center" width="25%">
+
+### Integraciones
+APIs REST  
+Servicios IA  
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧩 Metodología de Trabajo
 
 - 🎯 Objetivos claros desde el inicio  
 - 💬 Comunicación directa y constante  
 - 🗂️ Procesos organizados  
 - 🔒 Código limpio y mantenible  
-- 📈 Soluciones pensadas para crecer  
+- 📊 Decisiones técnicas con visión de negocio  
 
 ---
 
 ## 📫 Contacto
 
-📧 Email: angeldesingscontact@gmail.com
-
-💼 Landing Page: https://AngelDev2343.github.io/land/index.html
+📧 **Email:** angeldesingscontact@gmail.com  
+💼 **Landing Page:** [Ver Portafolio Web](https://AngelDev2343.github.io/land/index.html)
 
 ---
 
-⭐ Siempre abierto a colaborar en proyectos interesantes y nuevas oportunidades.
+⭐ Abierto a colaborar en proyectos interesantes y nuevas oportunidades.
