@@ -86,7 +86,7 @@ Trabajo principalmente con **JavaScript Vanilla** y tecnologías fundamentales p
 
 ¿Tienes un proyecto en mente? Me encantaría hablar sobre él.
 
-🔗 **[Explora mis proyectos](https://AngelDev2343.github.io/land/index.html)**
+🔗 **[Mi Landing Page](https://AngelDev2343.github.io/land/index.html)**
 
 💬 **¿Hablamos?** 23angelsperez@gmail.com
 
