@@ -88,7 +88,7 @@ Trabajo principalmente con **JavaScript Vanilla** y tecnologías fundamentales p
 
 🔗 **[Explora mis proyectos](https://AngelDev2343.github.io/land/index.html)**
 
-💬 **¿Hablamos?** angeldesingscontact@gmail.com
+💬 **¿Hablamos?** 23angelsperez@gmail.com
 
 
 
