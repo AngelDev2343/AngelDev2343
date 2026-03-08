@@ -11,13 +11,14 @@
                        ░███████                                                  
                                                                                  
 </pre>
-</div>
 
-## 💻 Frontend Developer | Fullstack Web
+
+## 💻 Frontend Developer | Fullstack Web 💻
 
 Desarrollo **plataformas web intuitivas, útiles y bien estructuradas** que aportan valor real al negocio.
 
 Trabajo con enfoque en experiencia de usuario, rendimiento y escalabilidad, creando soluciones pensadas para funcionar correctamente hoy y mantenerse sólidas en el tiempo.
+</div>
 
 ---
 
@@ -26,19 +27,19 @@ Trabajo con enfoque en experiencia de usuario, rendimiento y escalabilidad, crea
 <table>
 <tr>
 <td align="center" width="33%">
-🛒 Tiendas en línea
+🛒 <b>Tiendas en línea</b>
 
 Ecommerce optimizados para conversión y gestión eficiente.
 
 </td>
 <td align="center" width="33%">
-🧾 Sistemas administrativos<br>
+🧾 <b>Sistemas administrativos</b><br>
 
 Herramientas internas que organizan y simplifican procesos.
 
 </td>
 <td align="center" width="33%">
-🌍 Aplicaciones web a medida
+🌍 <b>Aplicaciones web a medida</b>
   
 Soluciones escalables alineadas a objetivos de negocio.
 
