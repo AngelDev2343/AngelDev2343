@@ -7,9 +7,11 @@ Desarrollo software en distintos niveles — desde bajo nivel hasta aplicaciones
 
 **Stack**
 
-| Frontend | Backend | IA |
+| Web | Backend & DB | Mobile · Sistemas · Game Dev |
 |---|---|---|
-| HTML · CSS · JavaScript | Node.js · PHP · MySQL | Integración de APIs · Automatización · Asistentes |
+| HTML · CSS · JavaScript · Django | Node.js · PHP · Python · MySQL · MongoDB | Dart · Flutter · Kotlin · Bash · GDScript |
+
+**Entorno:** Linux (Fedora) · VSCode · XAMPP · phpMyAdmin · FileZilla · Integración de APIs de IA
 
 ---
 
@@ -23,4 +25,4 @@ Tiendas en línea, herramientas internas y aplicaciones web a medida — ajustad
 
 [23angelsperez@gmail.com](mailto:23angelsperez@gmail.com) · [angeldev2343.github.io/land](https://AngelDev2343.github.io/land/index.html)
 
-> Los repositorios públicos muestran trabajo de producción.
+> Los repositorios públicos muestran trabajo de producción, no tutoriales ni experimentos.
