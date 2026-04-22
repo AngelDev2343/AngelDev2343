@@ -15,7 +15,7 @@ Desarrollo software en distintos niveles — desde bajo nivel hasta aplicaciones
 
 ---
 
-**Qué construyo**
+**¿Qué construyo?**
 
 Tiendas en línea, herramientas internas y aplicaciones web a medida — ajustadas al problema, no a una plantilla.
 
