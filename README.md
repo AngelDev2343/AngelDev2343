@@ -23,6 +23,6 @@ Tiendas en línea, herramientas internas y aplicaciones web a medida — ajustad
 
 **Contacto**
 
-[23angelsperez@gmail.com](mailto:23angelsperez@gmail.com) · [Landing Page](https://AngelDev2343.github.io/land/index.html)
+[23angelsperez@gmail.com](mailto:23angelsperez@gmail.com) · [Landing Page](https://AngelDev2343.github.io/land/index.html) · [Linkedin](https://www.linkedin.com/in/angel-salinas-p%C3%A9rez-925557405/)
 
 > Los repositorios públicos muestran trabajo de producción, no tutoriales ni experimentos.
