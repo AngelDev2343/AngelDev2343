@@ -10,7 +10,7 @@ Trabajo principalmente con JavaScript Vanilla y tecnologías core, usando framew
 
 ## 🚀 ¡Explora ahora!
 
-→ **[Explorar Landing Page](https://AngelDev2343.github.io/land/index.html)**
+→ **Explorar [Landing Page](https://AngelDev2343.github.io/land/index.html)**
 
 Una experiencia interactiva que refleja mi enfoque como desarrollador: control del frontend, diseño funcional y estructura clara.
 
@@ -26,7 +26,7 @@ Una experiencia interactiva que refleja mi enfoque como desarrollador: control d
 
 ---
 
-## Qué construyo
+## ¿Qué construyo?
 
 Tiendas en línea, herramientas internas y aplicaciones web a medida —
 ajustadas al problema, no a una plantilla.
@@ -35,8 +35,8 @@ ajustadas al problema, no a una plantilla.
 
 ## Contacto
 
-[23angelsperez@gmail.com](mailto:23angelsperez@gmail.com)
-[Landing Page](https://AngelDev2343.github.io/land/index.html)
+[23angelsperez@gmail.com](mailto:23angelsperez@gmail.com) ·
+[Landing Page](https://AngelDev2343.github.io/land/index.html) ·
 [LinkedIn](https://www.linkedin.com/in/angel-salinas-p%C3%A9rez-925557405/)
 
 ---
