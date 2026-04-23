@@ -8,7 +8,7 @@ Trabajo principalmente con JavaScript Vanilla y tecnologías core, usando framew
 
 ---
 
-## 🚀 Proyecto principal
+## 🚀 ¡Explora ahora!
 
 → **[Explorar Landing Page](https://AngelDev2343.github.io/land/index.html)**
 
