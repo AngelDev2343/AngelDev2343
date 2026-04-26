@@ -19,7 +19,8 @@ My approach is practical: performance, clarity, and control over how things actu
 I work with core technologies and integrate others when they genuinely add value — whether it’s backend systems, web platforms, or automation.
 
 * **Building:** Applications, Systems, Tools, and Custom Solutions.
-* **Focus:** Problem Solving, Performance, and Clean Structure.<br>
+* **Focus:** Problem Solving, Performance, and Clean Structure.<br><br>
+
 
 <div align="center" style="margin: 25px 0;">
   <a href="https://AngelDev2343.github.io/land/index.html" target="_blank">
