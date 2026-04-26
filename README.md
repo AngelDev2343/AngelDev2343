@@ -45,7 +45,7 @@ I work with core technologies and integrate others when they genuinely add value
   <tr>
     <td align="left"><b>Tools</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=vscode,git,github,linux,figma"/>
+      <img src="https://skillicons.dev/icons?i=vscode,git,github,linux"/>
       <div style="display: flex;justify-content: center;">
         <img src="https://cdn2.iconfinder.com/data/icons/pack1-baco-flurry-icons-style/512/XAMPP.png" height="50"/>
         <img src="https://icons.veryicon.com/png/Application/Baco%20Flurry%202/Filezilla%202.png" height="50"/>
