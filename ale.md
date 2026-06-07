@@ -19,11 +19,11 @@ Software developer specialized in frontend, focused on turning ideas into clean,
 <table>
   <tr>
     <td align="left"><b>Frontend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" /></td>
+    <td><img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react" /></td>
   </tr>
   <tr>
     <td align="left"><b>Backend & Tools</b></td>
-    <td><img src="https://skillicons.dev/icons?i=py,django,flask,git,figma" /></td>
+    <td><img src="https://skillicons.dev/icons?i=py,django,flask,git,figma,vscode" /></td>
   </tr>
 </table>
 </div>
